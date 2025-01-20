@@ -1,5 +1,5 @@
 # masscan
-Scan a 10.0.0.0/8 in a /16 incerments.
+Scan a 10.0.0.0/8 in a /16 increments.
 
 sudo apt-get install masscan  # For Ubuntu/Debian-based systems
 
